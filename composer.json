@@ -1,0 +1,14 @@
+{
+    "name": "root/estudo_composer",
+    "require": {
+        "phpmailer/phpmailer":"v6.0.3",
+        "swiftmailer/swiftmailer": "^6.0",
+        "symfony/var-dumper":"v4.0.4"
+    },
+    "authors": [
+        {
+            "name": "valdeilton",
+            "email": "javaibotirama@gmail.com"
+        }
+    ]
+}
