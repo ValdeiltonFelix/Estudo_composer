@@ -1,0 +1,14 @@
+Instalando o composer globalmente
+
+
+1) Primeiro baixe o arquivo do composer:
+
+curl -sS https://getcomposer.org/installer | php 
+
+2) Dando permissão de execução:
+
+ sudo chmod +x composer.phar
+ 
+3) Movendo o arquivo phar:
+
+sudo mv composer.phar /usr/local/bin/composer
